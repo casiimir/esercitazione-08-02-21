@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.banner{
+  width: 100%;
+  height: auto;
+  background: lightcoral;
+}
+
+.banner p {
+  padding: 10px;
+  font-size: 1.3rem;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.invisibleBanner {
+  display: none;
+}

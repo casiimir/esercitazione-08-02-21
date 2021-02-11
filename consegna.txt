@@ -1,5 +1,3 @@
-# esercitazione-08-02-21
-
 Esercizio 1
 1. creare su Github il repository "esercitazione-08-02-21"
 2. aggiungere un file README.md con una descrizione
