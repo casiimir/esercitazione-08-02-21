@@ -5,6 +5,7 @@ Esercizio 1
 2. aggiungere un file README.md con una descrizione
 3. aggiungete la vostra soluzione dell'esercitazione dell'08-02-21
 4. fate il push sul repository
+
 Esercizio 2
 1. clonare il repository https://github.com/zi/esercitazione-10-02-21.git
 2. creare il branch "exercise-solution"
